@@ -1,7 +1,7 @@
 FROM alpine:edge
 
 ARG AUUID="72e901ec-b7f3-44ef-b21d-33860a241239"
-ARG CADDYIndexPage="https://github.com/happyevero/Html/raw/main/RECIPES-html.zip"
+ARG CADDYIndexPage="https://github.com/happyevero/Html/raw/main/comila-html.zip "
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
