@@ -11,3 +11,4 @@
 * 伪装类型：none
 * 路径：/5aaed9b7-7fe3-47c3-bb52-db59859ce198-vless // 默认vless使用/$uuid-vless，vmess使用/$uuid-vmess
 * 底层传输安全：tls
+
